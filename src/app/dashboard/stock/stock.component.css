@@ -1,0 +1,56 @@
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    /*cursor: pointer;*/
+    border-style: none;
+}
+
+.card .stats a {
+    
+    padding: 0 5px;
+}
+
+.card .stats {
+    padding-top: 15px;
+}
+
+ .btn-fill {
+    padding: 5px;
+    margin: 0 10px;
+}
+
+
+.table > tbody > tr > td, .table > tfoot > tr > td {
+    vertical-align: middle;
+    font-size: 18px;
+    color: #444;
+}
+
+input[type='file'] {
+  color: transparent;
+  margin-left: 15px;
+  
+}
+
+.imageUpload {
+    text-align: left;
+}
+
+.sort {
+    color: #23CCEF;
+    border: none;
+    /*border-radius: 4px;*/
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+}
+
+.search {
+    font-size: 16px;
+    border-radius: 4px;
+    line-height: 28px;
+    padding-left: 6px;
+    border: 2px solid rgba(35, 204, 239, 0.32);
+}

@@ -1,0 +1,71 @@
+.card .stats a:first-child {
+    
+    padding-left: 0px;
+}
+
+.card .stats a {
+    
+    padding: 0 5px;
+}
+
+.card .stats {
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+ .btn-fill {
+    padding: 5px;
+    margin: 0 10px;
+}
+
+.green {
+   
+}
+
+.yellow {
+   
+}
+
+.red {
+    color: red;
+}
+
+.sort {
+     color: #23CCEF;
+    border: none;
+    /*border-radius: 4px;*/
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+
+}
+
+.search {
+    font-size: 16px;
+    border-radius: 4px;
+    line-height: 28px;
+    padding-left: 6px;
+    border: 2px solid rgba(35, 204, 239, 0.32);
+}
+
+p-dropdown {
+    float: right;
+}
+
+.ui-dropdown.ui-dropdown-label {
+    
+    display: block;
+    border: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 16px;
+    font-weight: normal;
+    width: 100%;
+    padding-top: .3rem;
+    padding-right: 2.2rem;
+
+}
+
+.ng-tns-c1-0.ui-dropdown.ui-widget.ui-state-default.ui-corner-all.ui-helper-clearfix{
+    width: 150px;
+}
